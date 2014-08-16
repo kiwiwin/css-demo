@@ -1,0 +1,33 @@
+.down-triangle {
+	width: 0;
+	height: 0;
+	border-width: 10px 10px 0 10px;
+	border-style: solid;
+	border-color: #dc291e transparent;
+}
+
+.up-triangle {
+	width: 0;
+	height: 0;
+	border-width: 0px 10px 10px 10px;
+	border-style: solid;
+	border-color: #dc291e transparent;
+}
+
+
+.left-triangle {
+	width: 0;
+	height: 0;
+	border-width: 10px 10px 10px 0px;
+	border-style: solid;
+	border-color: transparent #dc291e;
+}
+
+
+.right-triangle {
+	width: 0;
+	height: 0;
+	border-width: 10px 0px 10px 10px;
+	border-style: solid;
+	border-color: transparent #dc291e;
+}
